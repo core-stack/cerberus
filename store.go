@@ -3,7 +3,7 @@ package security
 import (
 	"context"
 
-	"github.com/core-stack/go-security/model"
+	"github.com/core-stack/cerberus/model"
 	"github.com/google/uuid"
 )
 

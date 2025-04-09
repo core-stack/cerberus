@@ -1,4 +1,4 @@
-module github.com/core-stack/go-security
+module github.com/core-stack/cerberus
 
 go 1.24.0
 
